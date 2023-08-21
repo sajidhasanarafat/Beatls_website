@@ -1,0 +1,17 @@
+@media (max-width:776px){
+    header{
+        display: none;
+    }
+    .slider_cont{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        text-align: center !important;
+    }
+    .slider_cont h2, h4{
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .button {
+        display: flex;}
+}
